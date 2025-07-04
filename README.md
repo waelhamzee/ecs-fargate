@@ -1,6 +1,7 @@
 # ECS Fargate Terraform Project
 
-This project provisions AWS ECS Fargate resources using Terraform. It automates the deployment of containerized applications with scalable, serverless infrastructure.
+This project provisions AWS ECS Fargate resources using Terraform. It automates the deployment of containerized applications with scalable, serverless infrastructure, accessible at:  
+[http://node-template-alb-525412564.eu-north-1.elb.amazonaws.com/](http://node-template-alb-525412564.eu-north-1.elb.amazonaws.com/)
 
 ## Features
 
